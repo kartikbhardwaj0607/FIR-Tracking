@@ -277,10 +277,6 @@ Track required documents:
 - Deploy to Vercel, Netlify, or AWS S3
 - Update API URL in production
 
-## 🤝 Contributing
-
-This is a hackathon project. Feel free to fork and improve!
-
 ## 📄 License
 
 MIT License - Feel free to use for your projects!
@@ -295,6 +291,6 @@ Built for hackathon with ❤️ and ☕
 - Socket.IO for real-time functionality
 - React community for amazing tools
 
----
 
-**Good luck with your hackathon! 🚀**
+
+
